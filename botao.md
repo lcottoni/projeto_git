@@ -1,0 +1,1 @@
+Aqui eu desenvolvo um novo botao para a API do QGIS
